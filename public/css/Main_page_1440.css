@@ -1,0 +1,2873 @@
+dmx-serverconnect {
+display: none
+}
+
+html {
+height:auto;
+min-height:100vh !important;
+}
+
+body {
+height:auto;
+background-color:rgba(255.0, 255.0, 255.0, 1.0);
+}
+
+#Main_page_1440_div {
+height:auto;
+min-height:100vh !important;
+}
+
+w-include {
+height:0px !important;
+}
+
+#Main_page_1440 {
+height:inherit;
+min-height:inherit;
+background-color:rgba(255.0, 255.0, 255.0, 1.0);
+}
+
+#_5_1619_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+gap:160.0px;
+justify-content:center;
+height:100%;
+width:100%;
+}
+
+#_5_1619 {
+transform:translateY(1184.0px);
+position:relative;
+flex-direction:column;
+display:flex;
+gap:160.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Container_Cards {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:36.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Container_Cards_2 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:24.0px;
+align-items:center;
+height:fit-content;
+width:1360.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+overflow-x:auto;
+}
+
+#_1 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:10.0px;
+padding-left:16.0px;
+padding-right:16.0px;
+padding-top:16.0px;
+padding-bottom:16.0px;
+height:188.0px;
+width:322.0px;
+background-color:rgba(255.0, 255.0, 255.0, 1.0);
+border-radius:28.0px;
+border-width:1.0px;
+border-style:SOLID;
+border-color:rgba(224.35351967811584, 224.35351967811584, 224.35351967811584, 1.0);
+}
+
+#_101_741 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:48.0px;
+height:fit-content;
+width:290.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1630 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:12.0px;
+align-items:center;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#image01 {
+position:relative;
+height:52.0px;
+width:52.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#image01_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1632 {
+position:relative;
+flex-direction:column;
+display:flex;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#S_P_501 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1634 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:4.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1635 {
+position:relative;
+height:24.0px;
+width:24.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1638_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100%;
+width:100%;
+}
+
+#_5_1638 {
+position:relative;
+height:12.0px;
+width:16.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1638_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1639 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+font-family:Inter;
+font-weight:500;
+font-size:16.0px;
+letter-spacing:0.0px;
+line-height:24.0px;
+justify-content:LEFT;
+align-items:start;
+color:rgba(6.000000117346644, 128.0000075697899, 107.00000122189522, 1.0);
+display:flex;
+}
+
+#buy_sell_bottons_1 {
+position:relative;
+flex-direction:row;
+display:flex;
+justify-content:space-between;
+align-items:center;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1625 {
+position:relative;
+height:56.0px;
+width:136.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1625-5_575 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:0.0%;
+height:100.0%;
+border-radius:32.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_I5_1625-5_575_svg {
+width:100%;
+height:100%;
+}
+
+#_I5_1625-5_576 {
+position:absolute;
+left:30.14705882352941%;
+width:fit-content%;
+top:14.285714285714285%;
+height:fit-content%;
+flex-direction:column;
+display:flex;
+align-items:center;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#SELL01 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(204.00000303983688, 47.0000009983778, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_6059_2 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(204.00000303983688, 47.0000009983778, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1626 {
+position:relative;
+height:56.0px;
+width:136.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1626-5_564 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:0.0%;
+height:100.0%;
+border-radius:32.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_I5_1626-5_564_svg {
+width:100%;
+height:100%;
+}
+
+#_I5_1626-5_565 {
+position:absolute;
+left:30.88235294117647%;
+width:fit-content%;
+top:14.285714285714285%;
+height:fit-content%;
+flex-direction:column;
+display:flex;
+align-items:center;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#BUY {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(6.000000117346644, 128.0000075697899, 107.00000122189522, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_6061_2 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(6.000000117346644, 128.0000075697899, 107.00000122189522, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1627_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+height:100%;
+width:100%;
+border-radius:24.0px;
+}
+
+#_5_1627 {
+transform:translateY(16.0px);
+position:absolute;
+top:0.0px;
+height:24.0px;
+width:44.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-radius:24.0px;
+}
+
+#_5_1628 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:24.0px;
+width:44.0px;
+background-color:rgba(255.0, 255.0, 255.0, 1.0);
+border-radius:24.0px;
+box-shadow:0.0px 0.0px 24.0px rgba(0.0, 0.0, 0.0, 0.05000000074505806);
+}
+
+#_5_1629 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:24.0px;
+width:44.0px;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1698_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+align-items:center;
+height:100%;
+width:100%;
+}
+
+#_5_1698 {
+transform:translateX(1334.0px);
+position:absolute;
+left:0.0px;
+height:52.0px;
+width:52.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1699 {
+border-radius:50%;
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:52.0px;
+width:52.0px;
+background-color:rgba(255.0, 255.0, 255.0, 1.0);
+box-shadow:0.0px 4.0px 40.0px rgba(0.0, 0.0, 0.0, 0.10000000149011612);
+}
+
+#_5_1700 {
+position:absolute;
+left:10.0px;
+top:10.0px;
+transform:rotate(-1.6081230200044232e-16rad);
+height:32.0px;
+width:32.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1700-207_1884_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+transform:rotate(-1.5707963705062955rad);
+flex-direction:row;
+display:flex;
+align-items:center;
+height:100%;
+width:100%;
+}
+
+#_I5_1700-207_1884 {
+margin-left:43.74999836082338%;
+margin-right:43.74999836082338%;
+transform:rotate(6.283185307179586rad);
+position:relative;
+height:12.000000262268259px;
+flex-grow:1;
+flex-basis:0;
+width:-webkit-fill-available;
+width:-moz-available;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#Frame_1707480531 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:12.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1702 {
+position:relative;
+height:16.0px;
+width:16.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1702_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1703 {
+position:relative;
+height:12.0px;
+width:12.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1703_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1704 {
+position:relative;
+height:12.0px;
+width:12.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1704_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1705 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:160.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1706 {
+position:relative;
+flex-direction:column;
+display:flex;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1707 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:36.0px;
+align-items:center;
+padding-left:40.0px;
+padding-right:40.0px;
+padding-top:100.0px;
+padding-bottom:100.0px;
+height:fit-content;
+width:1440.0px;
+background-color:rgba(17.00000088661909, 21.000000648200512, 31.000000052154064, 1.0);
+}
+
+#_5_1708 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:36.0px;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1709 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:24.0px;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1710 {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(244.0000006556511, 170.0000050663948, 26.000000350177288, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1711 {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1712 {
+position:relative;
+height:408.0px;
+width:553.0px;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1714 {
+position:relative;
+height:720.0px;
+width:771.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1715 {
+position:absolute;
+left:79.0px;
+top:-99.890625px;
+height:919.7343139648438px;
+width:1112.170166015625px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+}
+
+#_5_1717 {
+position:absolute;
+left:192.47265625px;
+bottom:0.0px;
+height:919.7343139648438px;
+width:919.6975708007812px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#image_Sidebar3 {
+position:absolute;
+left:231.0px;
+top:559.890625px;
+height:260.0px;
+width:396.0px;
+border-radius:12.0px;
+}
+
+#imageSidebar2 {
+position:absolute;
+left:0.0px;
+top:199.890625px;
+height:400.0px;
+width:556.0px;
+border-radius:12.0px;
+}
+
+#imageSidebar1 {
+position:absolute;
+left:361.0px;
+top:120.890625px;
+height:212.0px;
+width:320.0px;
+border-radius:12.0px;
+}
+
+#_5_1724 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:10.0px;
+padding-left:40.0px;
+padding-right:40.0px;
+padding-top:100.0px;
+padding-bottom:100.0px;
+height:fit-content;
+width:1440.0px;
+background-color:rgba(244.0000006556511, 244.0000006556511, 244.0000006556511, 1.0);
+}
+
+#_5_1725 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:20.0px;
+align-items:center;
+height:fit-content;
+width:1360.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1726 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:24.0px;
+align-items:center;
+height:fit-content;
+width:783.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1727 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(254.00000005960464, 161.0000056028366, 2.000000118277967, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1728 {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1730 {
+position:relative;
+height:724.0px;
+width:1360.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+}
+
+#_5_1731 {
+position:absolute;
+left:0.0px;
+top:18.0px;
+height:346.0px;
+width:437.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+}
+
+#_5_1732 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:20.23121387283237%;
+height:79.76878612716763%;
+border-radius:20.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1732_svg {
+width:100%;
+height:100%;
+}
+
+#Flying_Coins__right_side_view__3 {
+position:absolute;
+left:23.79862700228833%;
+width:52.63157894736842%;
+top:0.0%;
+height:66.47398843930635%;
+}
+
+#_5_1734 {
+position:absolute;
+left:31.35011441647597%;
+width:164.0px;
+top:66.47398843930635%;
+height:8.092485549132949%;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1735_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+height:100%;
+width:100%;
+}
+
+#_5_1735 {
+margin-top:266.0px;
+margin-bottom:32.0px;
+position:relative;
+height:fit-content;
+width:389.0px;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1736 {
+position:absolute;
+left:923.0px;
+top:378.0px;
+height:346.0px;
+width:437.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+}
+
+#_5_1737 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:20.23121387283237%;
+height:79.76878612716763%;
+border-radius:20.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1737_svg {
+width:100%;
+height:100%;
+}
+
+#Flying_Coins1__right_side_view_ {
+position:absolute;
+left:23.79862700228833%;
+width:52.63157894736842%;
+top:0.0%;
+height:66.47398843930635%;
+}
+
+#_5_1739 {
+position:absolute;
+left:30.663615560640732%;
+width:170.0px;
+top:66.47398843930635%;
+height:8.092485549132949%;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1740 {
+position:absolute;
+left:8.695652173913043%;
+width:361.0px;
+top:76.878612716763%;
+height:6.9364161849710975%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1741 {
+position:absolute;
+left:0.0px;
+top:378.0px;
+height:346.0px;
+width:437.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+}
+
+#_5_1742 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:20.23121387283237%;
+height:79.76878612716763%;
+border-radius:20.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1742_svg {
+width:100%;
+height:100%;
+}
+
+#Flying_Coins2__right_side_view_ {
+position:absolute;
+left:23.79862700228833%;
+width:52.63157894736842%;
+top:0.0%;
+height:66.47398843930635%;
+}
+
+#_5_1744_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+height:100%;
+width:100%;
+}
+
+#_5_1744 {
+margin-top:230.0px;
+margin-bottom:88.0px;
+position:relative;
+height:fit-content;
+width:129.0px;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1745_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+height:100%;
+width:100%;
+}
+
+#_5_1745 {
+transform:translateX(0.5px);
+margin-top:266.0px;
+margin-bottom:8.0px;
+position:relative;
+height:fit-content;
+width:386.0px;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1746 {
+position:absolute;
+left:923.0px;
+top:0.0px;
+height:364.0px;
+width:437.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1746-135_5152 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:24.175824175824175%;
+height:75.82417582417582%;
+border-radius:28.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_I5_1746-135_5152_svg {
+width:100%;
+height:100%;
+}
+
+#Flying_Coins545__right_side_view__1 {
+position:absolute;
+left:23.79862700228833%;
+width:52.63157894736842%;
+top:4.945054945054945%;
+height:63.18681318681318%;
+}
+
+#_I5_1746-135_5154 {
+position:absolute;
+left:34.55377574370709%;
+width:135.0px;
+top:68.13186813186813%;
+height:7.6923076923076925%;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_I5_1746-135_5155 {
+position:absolute;
+left:8.695652173913043%;
+width:361.0px;
+top:78.02197802197803%;
+height:13.186813186813188%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1747 {
+position:absolute;
+left:461.0px;
+top:18.0px;
+height:346.0px;
+width:438.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+}
+
+#_5_1759 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:20.23121387283237%;
+height:79.76878612716763%;
+border-radius:20.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1759_svg {
+width:100%;
+height:100%;
+}
+
+#Flying_Coins__right_side_view__1 {
+position:absolute;
+left:23.74429223744292%;
+width:52.51141552511416%;
+top:0.0%;
+height:66.47398843930635%;
+}
+
+#_5_1761 {
+position:absolute;
+left:43.83561643835616%;
+width:54.0px;
+top:66.47398843930635%;
+height:8.092485549132949%;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1762 {
+position:absolute;
+left:8.67579908675799%;
+width:361.0px;
+top:76.878612716763%;
+height:13.872832369942195%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1786 {
+position:absolute;
+left:462.0px;
+top:360.0px;
+height:364.0px;
+width:437.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1786-221_1805 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:24.175824175824175%;
+height:75.82417582417582%;
+border-radius:20.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_I5_1786-221_1805_svg {
+width:100%;
+height:100%;
+}
+
+#Flying_Coins4__right_side_view_ {
+position:absolute;
+left:23.79862700228833%;
+width:52.63157894736842%;
+top:4.945054945054945%;
+height:63.18681318681318%;
+}
+
+#_I5_1786-221_1807 {
+position:absolute;
+left:35.24027459954233%;
+width:129.0px;
+top:68.13186813186813%;
+height:7.6923076923076925%;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_I5_1786-221_1808 {
+position:absolute;
+left:8.695652173913043%;
+width:361.0px;
+top:78.02197802197803%;
+height:6.593406593406594%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1787 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:60.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1788 {
+position:relative;
+flex-direction:row;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding-left:40.0px;
+padding-right:40.0px;
+height:fit-content;
+width:1440.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1793 {
+position:relative;
+height:482.0px;
+width:692.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-radius:12.0px;
+}
+
+#image_06 {
+position:absolute;
+left:0.0px;
+top:16.0px;
+height:466.0px;
+width:676.0px;
+border-radius:12.0px;
+}
+
+#_5_1797 {
+position:absolute;
+left:592.0px;
+top:0.0px;
+height:100.0px;
+width:100.0px;
+border-radius:12.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1797_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1798 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:36.0px;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1799 {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1800 {
+position:relative;
+height:576.0px;
+width:553.0px;
+color:rgba(33.00000183284283, 42.000001296401024, 60.00000022351742, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Footer_Section {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:10.0px;
+padding-left:40.0px;
+padding-right:40.0px;
+padding-top:100.0px;
+padding-bottom:32.0px;
+height:fit-content;
+width:1440.0px;
+background-color:rgba(17.00000088661909, 21.000000648200512, 31.000000052154064, 1.0);
+}
+
+#_5_1818 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:100.0px;
+height:fit-content;
+width:1360.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1819 {
+position:relative;
+height:276.0px;
+width:1360.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1820 {
+position:absolute;
+right:0.0px;
+top:0.0px;
+flex-direction:row;
+display:flex;
+gap:24.0px;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Company_Links {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:16.0px;
+height:fit-content;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#CompanyTitleFooter {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1823 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:8.0px;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#About_Us07_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#About_Us07 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#About_Us08 {
+position:absolute;
+left:0.0%;
+width:71.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Legal_Documents01_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Legal_Documents01 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Legal_Documents02 {
+position:absolute;
+left:0.0%;
+width:132.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Contact_Us09_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Contact_Us09 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#About_Us10 {
+position:absolute;
+left:0.0%;
+width:85.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Services_Links {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:16.0px;
+height:fit-content;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#ServiceTitleFooter {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1829 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:8.0px;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Investment_Advisory01_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Investment_Advisory01 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Investment_Advisory02 {
+position:absolute;
+left:0.0%;
+width:155.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Market_Research01_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Market_Research01 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Market_Research02 {
+position:absolute;
+left:0.0%;
+width:128.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Legal_Advise01_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Legal_Advise01 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Legal_Advise02 {
+position:absolute;
+left:0.0%;
+width:97.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Tax_Advise_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Tax_Advise {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Tax_Advise01 {
+position:absolute;
+left:0.0%;
+width:83.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1834 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#Real_Estate02 {
+position:absolute;
+left:0.0%;
+width:85.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Clients_Links {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:16.0px;
+height:fit-content;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#ClientsTitleFooter {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1837 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:8.0px;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Investment_Advisors_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Investment_Advisors {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Investment_Advisors01 {
+position:absolute;
+left:0.0%;
+width:154.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Privete_Investors_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Privete_Investors {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Privete_Investors01 {
+position:absolute;
+left:0.0%;
+width:127.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Partners_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Partners {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Partners01 {
+position:absolute;
+left:0.0%;
+width:65.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Markets_Links {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:16.0px;
+height:fit-content;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#MarketTitleFooter {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1843 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:8.0px;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Currencies_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Currencies {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Currencies01 {
+position:absolute;
+left:0.0%;
+width:82.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Fixed_income_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Fixed_income {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Fixed_income01 {
+position:absolute;
+left:0.0%;
+width:101.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Stock___ETF_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Stock___ETF {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Stock___ETF01 {
+position:absolute;
+left:0.0%;
+width:92.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#Cryptocurrencies_link {
+text-decoration:none;
+height:24.0px;
+width:207.0px;
+}
+
+#Cryptocurrencies {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1847-38_1990 {
+position:absolute;
+left:0.0%;
+width:131.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1848 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1848-38_1990 {
+position:absolute;
+left:0.0%;
+width:100.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1849 {
+position:relative;
+height:24.0px;
+width:207.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1849-38_1990 {
+position:absolute;
+left:0.0%;
+width:85.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1851 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+flex-direction:column;
+display:flex;
+gap:48.0px;
+height:fit-content;
+width:322.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1852 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:24.0px;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1853 {
+position:relative;
+height:60.0px;
+width:216.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1853_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1854 {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1855 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:16.0px;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1856 {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:end;
+justify-content:LEFT;
+}
+
+#_5_1857 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:16.0px;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1858 {
+position:relative;
+height:32.0px;
+width:32.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1858-38_2050 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:0.0%;
+height:100.0%;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1858-38_2050-24_533 {
+position:absolute;
+left:2.666748046875px;
+top:2.66650390625px;
+height:26.66666603088379px;
+width:26.66666603088379px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1858-38_2050-24_534 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:26.66666603088379px;
+width:26.66666603088379px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1859 {
+position:relative;
+height:32.0px;
+width:32.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1859-38_2051 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:0.0%;
+height:100.0%;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1859-38_2051-24_541 {
+position:absolute;
+left:4.04638671875px;
+top:5.33349609375px;
+height:21.33333396911621px;
+width:23.610429763793945px;
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1860 {
+position:relative;
+height:32.0px;
+width:32.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1860-38_2052 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:0.0%;
+height:100.0%;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1860-38_2052-24_544 {
+position:absolute;
+left:8.0px;
+top:4.0px;
+height:24.0px;
+width:16.0px;
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_I5_1860-38_2052-24_544_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1861 {
+position:relative;
+height:32.0px;
+width:32.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1861-38_2053 {
+position:absolute;
+left:0.0%;
+width:100.0%;
+top:0.0%;
+height:100.0%;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1861-38_2053-24_548_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100%;
+width:100%;
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+}
+
+#_I5_1861-38_2053-24_548 {
+transform:translateX(0.3536376953125px) translateY(-0.14602184295654297px);
+position:relative;
+height:21.707956314086914px;
+width:24.707275390625px;
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1862 {
+position:relative;
+height:57.0px;
+width:1360.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1863 {
+position:absolute;
+left:0.0px;
+bottom:56.0px;
+height:1.0px;
+width:1360.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1863_svg {
+width:100%;
+height:100%;
+}
+
+#Footer_Bottom_Content {
+position:absolute;
+left:0.0px;
+top:33.0px;
+flex-direction:row;
+display:flex;
+justify-content:space-between;
+align-items:center;
+height:fit-content;
+width:1360.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1865 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1866 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:13.0px;
+justify-content:flex-end;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1867 {
+position:relative;
+height:24.0px;
+width:53.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1867-38_1990 {
+position:absolute;
+left:0.0%;
+width:53.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1868 {
+position:relative;
+height:16.0px;
+width:1.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1868_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1869 {
+position:relative;
+height:24.0px;
+width:105.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#_I5_1869-38_1990 {
+position:absolute;
+left:0.0%;
+width:105.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1870 {
+position:relative;
+height:16.0px;
+width:1.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1870_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1871 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1872 {
+position:relative;
+height:16.0px;
+width:1.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1872_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1873 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1874 {
+position:relative;
+height:16.0px;
+width:1.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1874_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1875 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+#_5_1907 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:1024.0px;
+width:1440.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1908_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+height:100%;
+width:100%;
+}
+
+#_5_1908 {
+position:relative;
+height:1024.0px;
+width:1440.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1915 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:1024.0px;
+width:1440.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1916 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:1024.0px;
+width:1440.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#image {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:1024.0px;
+width:1440.0px;
+}
+
+#_5_1919_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+height:100%;
+width:100%;
+}
+
+#_5_1919 {
+position:relative;
+height:1024.0px;
+width:1440.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1919_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1920 {
+position:absolute;
+left:386.0px;
+top:161.0px;
+height:0.0px;
+width:0.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+border-top-left-radius:0.0px;
+border-top-right-radius:0.0px;
+border-bottom-right-radius:0.0px;
+border-bottom-left-radius:0.0px;
+}
+
+#_5_1924_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+gap:52.0px;
+justify-content:center;
+align-items:end;
+height:100%;
+width:100%;
+}
+
+#_5_1924 {
+transform:translateY(-24.0px);
+position:relative;
+flex-direction:column;
+display:flex;
+gap:52.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1925 {
+position:relative;
+flex-direction:column;
+display:flex;
+gap:40.0px;
+align-items:center;
+height:fit-content;
+width:1200.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Main_Title {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#Main_Description {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#Contact_Us_Main {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:10.0px;
+justify-content:center;
+align-items:center;
+padding-top:16.0px;
+padding-bottom:16.0px;
+height:64.0px;
+width:220.0px;
+background-color:rgba(0.0, 134.16624069213867, 183.54687094688416, 1.0);
+border-radius:50.0px;
+cursor:pointer;
+}
+
+#Open_account01 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:CENTER;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1929 {
+position:relative;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1930 {
+position:absolute;
+left:0.0px;
+top:40.0px;
+height:80.0px;
+width:1440.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1931_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+gap:380.0px;
+justify-content:center;
+height:100%;
+width:100%;
+}
+
+#_5_1931 {
+position:relative;
+flex-direction:row;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding-top:16.0px;
+padding-bottom:16.0px;
+height:fit-content;
+width:1360.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1932 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:12.0px;
+align-items:center;
+height:fit-content;
+width:307.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Ellipse_874 {
+position:relative;
+height:48.0px;
+width:48.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#Ellipse_874_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1934 {
+position:relative;
+flex-direction:column;
+display:flex;
+justify-content:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Orkendey {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+font-family:Inter;
+font-weight:600;
+font-size:24.0px;
+letter-spacing:0.0px;
+line-height:28.0px;
+justify-content:LEFT;
+align-items:start;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+}
+
+#Investment_LLC {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+font-family:Inter;
+font-weight:400;
+font-size:10.0px;
+letter-spacing:0.0px;
+line-height:100.0%;
+justify-content:LEFT;
+align-items:start;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+}
+
+#_5_1937 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:56.0px;
+justify-content:flex-end;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Company {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:4.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#Company01 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+font-family:Inter;
+font-weight:500;
+font-size:20.0px;
+letter-spacing:0.0px;
+line-height:28.0px;
+justify-content:LEFT;
+align-items:start;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+}
+
+#_5_1940 {
+position:relative;
+height:6.0px;
+width:10.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#Services {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:4.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#Services01 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+font-family:Inter;
+font-weight:500;
+font-size:20.0px;
+letter-spacing:0.0px;
+line-height:28.0px;
+justify-content:RIGHT;
+align-items:start;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+}
+
+#_5_1943 {
+position:relative;
+height:6.0px;
+width:10.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#Clients {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:4.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#Clients01 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+font-family:Inter;
+font-weight:500;
+font-size:20.0px;
+letter-spacing:0.0px;
+line-height:28.0px;
+justify-content:RIGHT;
+align-items:start;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+}
+
+#_5_1946 {
+position:relative;
+height:6.0px;
+width:10.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#Markets {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:4.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+cursor:pointer;
+}
+
+#Markets01 {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+font-family:Inter;
+font-weight:500;
+font-size:20.0px;
+letter-spacing:0.0px;
+line-height:28.0px;
+justify-content:RIGHT;
+align-items:start;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+}
+
+#_5_1949 {
+position:relative;
+height:6.0px;
+width:10.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1958 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:32.0px;
+justify-content:flex-end;
+align-items:center;
+height:fit-content;
+width:307.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Log_in {
+position:relative;
+height:24.0px;
+width:47.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1959-38_1972 {
+position:absolute;
+left:0.0%;
+width:47.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:CENTER;
+justify-content:RIGHT;
+cursor:pointer;
+}
+
+#Component_3 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:10.0px;
+justify-content:center;
+align-items:center;
+padding-left:24.0px;
+padding-right:24.0px;
+padding-top:12.0px;
+padding-bottom:12.0px;
+height:48.0px;
+width:fit-content;
+background-color:rgba(0.0, 134.16624069213867, 183.54687094688416, 1.0);
+border-radius:50.0px;
+cursor:pointer;
+}
+
+#Open_account {
+position:relative;
+height:fit-content;
+width:fit-content;
+white-space:nowrap;
+color:rgba(255.0, 255.0, 255.0, 1.0);
+display:flex;
+align-items:CENTER;
+justify-content:CENTER;
+text-align:center;
+}
+
+#_5_1961 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:40.0px;
+width:1440.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1962 {
+position:absolute;
+left:0.0px;
+top:0.0px;
+height:40.0px;
+width:1440.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1963_wrapper {
+position:absolute;
+left:0px;
+top:0px;
+flex-direction:row;
+display:flex;
+justify-content:center;
+height:100%;
+width:100%;
+}
+
+#_5_1963 {
+position:relative;
+height:40.0px;
+width:1440.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1963_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1964 {
+position:absolute;
+right:40.0px;
+top:10.0px;
+flex-direction:row;
+display:flex;
+gap:28.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1965 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:12.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Company22 {
+position:relative;
+height:20.0px;
+width:73.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#Contact_Us18 {
+position:absolute;
+left:0.0%;
+width:102.73972602739727%;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+align-items:start;
+justify-content:LEFT;
+cursor:pointer;
+}
+
+#_I5_1968-100_4669_0 {
+height:fit-content;
+}
+
+#_5_1969 {
+position:relative;
+flex-direction:row;
+display:flex;
+gap:8.0px;
+align-items:center;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_5_1971 {
+position:relative;
+height:20.0px;
+width:20.0px;
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+#_5_1971_svg {
+width:100%;
+height:100%;
+}
+
+#_5_1972 {
+position:relative;
+height:20.0px;
+width:19.0px;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+#_I5_1972-100_4669 {
+position:absolute;
+left:0.0%;
+width:19.0px;
+top:0.0%;
+height:100.0%;
+color:rgba(143.00000667572021, 151.00000619888306, 171.00000500679016, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+cursor:pointer;
+}
+
