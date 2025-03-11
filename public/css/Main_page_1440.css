@@ -1666,31 +1666,17 @@ background-color:rgba(0.0, 0.0, 0.0, 0.0);
 #_184_772 {
 position:absolute;
 left:79.0px;
-top:-99.890625px;
-height:919.7343139648438px;
-width:1112.170166015625px;
+top:21.0px;
+height:699.0px;
+width:681.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
-border-top-left-radius:0.0px;
-border-top-right-radius:0.0px;
-border-bottom-right-radius:0.0px;
-border-bottom-left-radius:0.0px;
-}
-
-#_184_773 {
-position:absolute;
-left:192.47265625px;
-bottom:0.0px;
-height:919.7343139648438px;
-width:919.6975708007812px;
-display:flex;
-align-items:center;
-justify-content:center;
+border-radius:12.0px;
 }
 
 #image_Sidebar3 {
 position:absolute;
 left:231.0px;
-top:559.890625px;
+top:439.0px;
 height:260.0px;
 width:396.0px;
 border-radius:12.0px;
@@ -1699,7 +1685,7 @@ border-radius:12.0px;
 #imageSidebar2 {
 position:absolute;
 left:0.0px;
-top:199.890625px;
+top:79.0px;
 height:400.0px;
 width:556.0px;
 border-radius:12.0px;
@@ -1708,7 +1694,7 @@ border-radius:12.0px;
 #imageSidebar1 {
 position:absolute;
 left:361.0px;
-top:120.890625px;
+top:0.0px;
 height:212.0px;
 width:320.0px;
 border-radius:12.0px;
