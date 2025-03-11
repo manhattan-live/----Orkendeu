@@ -16,6 +16,11 @@
             "page": "index",
             "routeType": "page",
             "layout": "index"
+        },
+        {
+            "path": "/Main_page_1441",
+            "page": "Main_page_1441",
+            "layout": "Main_page_1441"
         }
     ]
 }
