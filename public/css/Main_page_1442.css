@@ -1,87 +1,6 @@
-/* Стили для внутренних элементов модалок */
-#Popup_Company #_5_1586,
-#Popup_Services #_5_1593 {
-  position: absolute;
-  left: 50% !important;
-  transform: translateX(-50%) !important;
-  top: -9px !important;
-  z-index: 2001;
-}
-
-#Popup_Company #_5_1587,
-#Popup_Services #_5_1594 {
-  background-color: #11151F;
-  border-radius: 16px;
-  padding: 8px;
-  width: 100%;
-  z-index: 2001;
-}
-
-/* Общие стили для модальных окон */
-.modal-backdrop {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
-  z-index: 1040;
-}
-
-.modal.show {
-  display: block !important;
-}
-#modal_Popup_Company, #modal_Popup_Services, #modal_Popup_Clients, #modal_Popup_Markets {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 2000;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  padding-top: 120px;
-}
-
-#Popup_Company, #Popup_Services, #Popup_Clients, #Popup_Markets {
-  position: relative;
-  top: auto;
-  left: auto;
-  transform: none;
-}
-.modal {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1050;
-  width: 100%;
-  height: 100%;
-  outline: 0;
-  overflow-x: hidden;
-  overflow-y: auto;
-}
-
-.modal-content {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  pointer-events: auto;
-  background-color: transparent;
-  border: none;
-  outline: 0;
-}
 dmx-serverconnect {
 display: none
 }
-
-.modal-dialog {
-  pointer-events: auto;
-  position: relative;
-  z-index: 1050;
-}
-
 
 html {
 height:auto;
@@ -91,8 +10,6 @@ min-height:100vh !important;
 body {
 height:auto;
 background-color:rgba(255.0, 255.0, 255.0, 1.0);
-display: flex;
-justify-content: center;
 }
 
 #Main_page_1442_div {
@@ -108,16 +25,11 @@ height:0px !important;
 height:inherit;
 min-height:inherit;
 background-color:rgba(255.0, 255.0, 255.0, 1.0);
-position: relative;
-left: 50%;
-transform: translateX(-50%);
-width: 100%;
 }
 
 #Footer_Section {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:0.0px;
 top:4620.0px;
 flex-direction:column;
 display:flex;
@@ -1121,8 +1033,7 @@ justify-content:LEFT;
 
 #_184_808 {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:0.0px;
 top:3784.0px;
 flex-direction:column;
 display:flex;
@@ -1180,8 +1091,7 @@ justify-content:LEFT;
 
 #_184_779 {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:0.0px;
 top:2504.0px;
 flex-direction:column;
 display:flex;
@@ -1678,8 +1588,7 @@ text-align:center;
 
 #_184_765 {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:0.0px;
 top:1584.0px;
 flex-direction:row;
 display:flex;
@@ -1793,8 +1702,7 @@ border-radius:12.0px;
 
 #Scrollable_Cards {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:40.0px;
 top:1184.0px;
 flex-direction:column;
 display:flex;
@@ -2248,8 +2156,7 @@ height:100%;
 
 #_184_880 {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:0.0px;
 top:0.0px;
 height:1024.0px;
 width:1440.0px;
@@ -2304,8 +2211,7 @@ text-align:center;
 
 #MainText {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:120.0px;
 top:568.0px;
 flex-direction:column;
 display:flex;
@@ -2370,8 +2276,7 @@ text-align:center;
 
 #_184_893 {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:0.0px;
 top:40.0px;
 height:80.0px;
 width:1440.0px;
@@ -2674,8 +2579,7 @@ text-align:center;
 
 #_184_916 {
 position:absolute;
-left:50%;
-transform: translateX(-50%);
+left:0.0px;
 top:0.0px;
 height:40.0px;
 width:1440.0px;
