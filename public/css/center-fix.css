@@ -1,0 +1,18 @@
+/* Стили для центрирования страницы */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#Main_page_1442 {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}

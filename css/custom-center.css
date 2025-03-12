@@ -1,0 +1,21 @@
+/* Стили для центрирования контента на странице */
+#Main_page_1442 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+/* Внутренние контейнеры выравниваем по центру */
+#Footer_Section, 
+#_184_808, 
+#_184_779, 
+#_184_765, 
+#Scrollable_Cards,
+#_184_880,
+#MainText,
+#_184_893, 
+#_184_916 {
+    margin-left: auto;
+    margin-right: auto;
+}
