@@ -1,31 +1,27 @@
 {
-    "routes": [
-        {
-            "path": "/",
-            "page": "index",
-            "routeType": "page",
-            "layout": "index"
-        },
-        {
-            "path": "/Main_page_1440",
-            "page": "Main_page_1440",
-            "layout": "Main_page_1440"
-        },
-        {
-            "path": "/index",
-            "page": "index",
-            "routeType": "page",
-            "layout": "index"
-        },
-        {
-            "path": "/Main_page_1441",
-            "page": "Main_page_1441",
-            "layout": "Main_page_1441"
-        },
-        {
-            "path": "/Main_page_1442",
-            "page": "Main_page_1442",
-            "layout": "Main_page_1442"
-        }
-    ]
+  "routes": [
+    {
+      "path": "/",
+      "page": "index",
+      "routeType": "page",
+      "layout": "index"
+    },
+    {
+      "path": "/index",
+      "page": "index",
+      "routeType": "page",
+      "layout": "index"
+    },
+    {
+      "path": "/Main_page_1442",
+      "page": "Main_page_1442",
+      "layout": "Main_page_1442"
+    },
+    {
+      "path": "/popup_demo",
+      "page": "popup_demo",
+      "routeType": "page",
+      "layout": "main"
+    }
+  ]
 }
