@@ -1,0 +1,70 @@
+/**
+ * Стили для позиционирования модальных окон под кнопками
+ */
+
+/* Базовые стили для модальных окон */
+.modal {
+  background-color: transparent !important;
+  backdrop-filter: none !important;
+  padding-right: 0 !important;
+}
+
+.modal-dialog {
+  position: fixed !important;
+  margin: 0 !important;
+  transform: none !important;
+  max-width: 437px !important;
+  width: 437px !important;
+  transition: none !important;
+}
+
+.modal-content {
+  background: transparent !important;
+  border: none !important;
+}
+
+/* Стили для анимации */
+.modal.fade .modal-dialog {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  transform: none !important;
+}
+
+.modal.fade.show .modal-dialog {
+  opacity: 1;
+  transform: none !important;
+}
+
+/* Стиль для "треугольника" над модальным окном */
+.modal-triangle {
+  position: absolute;
+  top: -9px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #11151F;
+}
+
+/* Скрываем существующую стрелку */
+.modal-content::before {
+  display: none !important;
+}
+
+/* Отменяем все стили Bootstrap для позиционирования модальных окон */
+.modal-dialog-centered {
+  align-items: flex-start !important;
+  min-height: auto !important;
+  display: block !important;
+}
+
+/* Медиа-запросы для мобильных устройств */
+@media (max-width: 576px) {
+  .modal-dialog {
+    width: 90% !important;
+    max-width: 90% !important;
+  }
+}

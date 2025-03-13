@@ -1,5 +1,6 @@
 <!-- Wappler include head-page="layouts/Main_page_1442" fontawesome_5="cdn" bootstrap5="local" is="dmx-app" id="Main_page_1442" appConnect="local" components="{dmxNotifications:{},dmxBrowser:{},dmxStateManagement:{},dmxValidator:{},dmxBootstrap5Modal:{},dmxBootbox5:{},dmxFormatter:{}}" jquery_slim_35="local" moment_2="local" -->
 <link href="/css/Main_page_1442.css" rel="stylesheet" />
+<link href="/css/modal-position.css" rel="stylesheet" />
 <meta content="/Main_page_1442" name="ac:route">
 <div id="browser" is="dmx-browser">
 </div>
@@ -59,8 +60,8 @@
                                     </header>
                                 </div>
                             </a>
-                            <a href="#" fid="184:833_link" id="Legal_Advise01_link">
-                                <div fid="184:833" id="Legal_Advise01">
+                            <a href="#" fid="184:833_link" id="Legal_Advise_link">
+                                <div fid="184:833" id="Legal_Advise">
                                     <header class="WEB_B_B2 d-flex" fid="I184:833;38:1990" id="Legal_Advise02">
                                         Legal Advise
                                     </header>
@@ -73,11 +74,13 @@
                                     </header>
                                 </div>
                             </a>
-                            <div class="d-flex" fid="184:835" fname="Real Estate01" id="_184_835">
-                                <header class="WEB_B_B2 d-flex" fid="I184:835;38:1990" id="Real_Estate02">
-                                    Real Estate
-                                </header>
-                            </div>
+                            <a href="#" fid="184:835_link" id="Real_Estate_link">
+                                <div fid="184:835" id="Real_Estate">
+                                    <header class="WEB_B_B2 d-flex" fid="I184:835;38:1990" id="Real_Estate02">
+                                        Real Estate
+                                    </header>
+                                </div>
+                            </a>
                         </div>
                     </div>
                     <div class="d-flex" fid="184:836" id="Clients_Links">
@@ -729,7 +732,7 @@
         </div>
     </div>
     <div fid="184:900" fname="Frame 1707480493" id="_184_900">
-        <div class="d-flex" dmx-on:click="modal_Popup_Company.show()" fid="184:901" id="Company">
+        <div class="d-flex" fid="184:901" id="Company">
             <header class="d-flex" fid="184:902" id="Company01">
                 Company
             </header>
@@ -740,7 +743,7 @@
                 </svg>
             </div>
         </div>
-        <div class="d-flex" dmx-on:click="modal_Popup_Services.show()" fid="184:904" id="Services">
+        <div class="d-flex" fid="184:904" id="Services">
             <header class="d-flex" fid="184:905" id="Services01">
                 Services
             </header>
@@ -751,7 +754,7 @@
                 </svg>
             </div>
         </div>
-        <div class="d-flex" dmx-on:click="modal_Popup_Clients.show()" fid="184:907" id="Clients">
+        <div class="d-flex" fid="184:907" id="Clients">
             <header class="d-flex" fid="184:908" id="Clients01">
                 Clients
             </header>
@@ -762,7 +765,7 @@
                 </svg>
             </div>
         </div>
-        <div class="d-flex" dmx-on:click="modal_Popup_Markets.show()" fid="184:910" id="Markets">
+        <div class="d-flex" fid="184:910" id="Markets">
             <header class="d-flex" fid="184:911" id="Markets01">
                 Markets
             </header>
@@ -853,19 +856,16 @@
         </div>
     </div>
 </div>
+<!-- Подключение JavaScript для позиционирования модальных окон -->
+<script src="/js/modal-position.js"></script>
+
 <!-- Modal start -->
-<div class="modal" gid="modal_Popup_Company" id="modal_Popup_Company" is="dmx-bs5-modal" tabindex="-1">
-    <div class="modal-dialog modal-dialog-centered" id="modal_dialog_Popup_Company" role="document" style="max-width: 437px !important;">
-        <div class="modal-content" style="background: transparent; border: none;">
-            <div fid="5:1585" id="Popup_Company" style="position: relative;">
-                <div fid="5:1586" fname="Polygon 2" id="_5_1586" style="position: absolute; top: -9px; left: 50%; transform: translateX(-50%); z-index: 10;">
-                    <svg fill="none" height="9" viewbox="0 0 35 9" width="35" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M17.3203 0L34.6408 9H-0.000196457L17.3203 0Z" fill="#11151F">
-                        </path>
-                    </svg>
-                </div>
-                <div fid="5:1587" fname="Frame 1707480549" id="_5_1587" style="background-color: #11151F; color: white; padding: 8px; border-radius: 16px;">
-                    <div fid="5:1588" fname="Frame 1707480548" id="_5_1588" style="display: flex; flex-direction: column; gap: 8px;">
+<div id="modal_Popup_Company" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div id="Popup_Company">
+                <div id="_5_1587" style="background-color: #11151F; color: white; padding: 8px; border-radius: 16px;">
+                    <div id="_5_1588" style="display: flex; flex-direction: column; gap: 8px;">
                         <div fid="5:1589" fname="1" id="_5_1589" style="padding: 20px; border-radius: 12px; cursor: pointer; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.1)'" onmouseout="this.style.backgroundColor='transparent'">
                             <div style="display: flex; align-items: center; gap: 16px;">
                                 <div fid="I5:1589;5:593" fname="Icon" id="_I5_1589-5_593">
@@ -927,18 +927,12 @@
     </div>
 </div>
 <!-- Modal start -->
-<div class="modal" gid="modal_Popup_Services" id="modal_Popup_Services" is="dmx-bs5-modal" tabindex="-1">
-    <div class="modal-dialog modal-dialog-centered" id="modal_dialog_Popup_Services" role="document" style="max-width: 437px !important;">
-        <div class="modal-content" style="background: transparent; border: none;">
-            <div fid="5:1592" id="Popup_Services" style="position: relative;">
-                <div fid="5:1593" fname="Polygon 2" id="_5_1593" style="position: absolute; top: -9px; left: 50%; transform: translateX(-50%); z-index: 10;">
-                    <svg fill="none" height="9" viewbox="0 0 35 9" width="35" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M17.3203 0L34.6408 9H-0.000196457L17.3203 0Z" fill="#11151F">
-                        </path>
-                    </svg>
-                </div>
-                <div fid="5:1594" fname="Frame 1707480549" id="_5_1594" style="background-color: #11151F; color: white; padding: 8px; border-radius: 16px;">
-                    <div fid="5:1595" fname="Frame 1707480548" id="_5_1595" style="display: flex; flex-direction: column; gap: 8px;">
+<div id="modal_Popup_Services" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div id="Popup_Services">
+                <div id="_5_1594" style="background-color: #11151F; color: white; padding: 8px; border-radius: 16px;">
+                    <div id="_5_1595" style="display: flex; flex-direction: column; gap: 8px;">
                         <div fid="5:1596" fname="2" id="_5_1596" style="padding: 20px; border-radius: 12px; cursor: pointer; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.1)'" onmouseout="this.style.backgroundColor='transparent'">
                             <div style="display: flex; align-items: center; gap: 16px;">
                                 <div fid="I5:1596;5:593" fname="Icon" id="_I5_1596-5_593">
@@ -1040,18 +1034,12 @@
     </div>
 </div>
 <!-- Modal start -->
-<div class="modal" gid="modal_Popup_Clients" id="modal_Popup_Clients" is="dmx-bs5-modal" tabindex="-1">
-    <div class="modal-dialog modal-dialog-centered" id="modal_dialog_Popup_Clients" role="document" style="max-width: 437px !important;">
-        <div class="modal-content" style="background: transparent; border: none;">
-            <div fid="5:1601" id="Popup_Clients" style="position: relative;">
-                <div fid="5:1602" fname="Polygon 2" id="_5_1602" style="position: absolute; top: -9px; left: 50%; transform: translateX(-50%); z-index: 10;">
-                    <svg fill="none" height="9" viewbox="0 0 35 9" width="35" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M17.3203 0L34.6408 9H-0.000196457L17.3203 0Z" fill="#11151F">
-                        </path>
-                    </svg>
-                </div>
-                <div fid="5:1603" fname="Frame 1707480549" id="_5_1603" style="background-color: #11151F; color: white; padding: 8px; border-radius: 16px;">
-                    <div fid="5:1604" fname="Frame 1707480548" id="_5_1604" style="display: flex; flex-direction: column; gap: 8px;">
+<div id="modal_Popup_Clients" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div id="Popup_Clients">
+                <div id="_5_1603" style="background-color: #11151F; color: white; padding: 8px; border-radius: 16px;">
+                    <div id="_5_1604" style="display: flex; flex-direction: column; gap: 8px;">
                         <div fid="5:1605" fname="1" id="_5_1605" style="padding: 20px; border-radius: 12px; cursor: pointer; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.1)'" onmouseout="this.style.backgroundColor='transparent'">
                             <div style="display: flex; align-items: center; gap: 16px;">
                                 <div fid="I5:1605;5:593" fname="Icon" id="_I5_1605-5_593">
@@ -1115,18 +1103,12 @@
     </div>
 </div>
 <!-- Modal start -->
-<div class="modal" gid="modal_Popup_Markets" id="modal_Popup_Markets" is="dmx-bs5-modal" tabindex="-1">
-    <div class="modal-dialog modal-dialog-centered" id="modal_dialog_Popup_Markets" role="document" style="max-width: 437px !important;">
-        <div class="modal-content" style="background: transparent; border: none;">
-            <div fid="5:1608" id="Popup_Markets" style="position: relative;">
-                <div fid="5:1609" fname="Polygon 2" id="_5_1609" style="position: absolute; top: -9px; left: 50%; transform: translateX(-50%); z-index: 10;">
-                    <svg fill="none" height="9" viewbox="0 0 35 9" width="35" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M17.3203 0L34.6408 9H-0.000196457L17.3203 0Z" fill="#11151F">
-                        </path>
-                    </svg>
-                </div>
-                <div fid="5:1610" fname="Frame 1707480549" id="_5_1610" style="background-color: #11151F; color: white; padding: 8px; border-radius: 16px;">
-                    <div fid="5:1611" fname="Frame 1707480548" id="_5_1611" style="display: flex; flex-direction: column; gap: 8px;">
+<div id="modal_Popup_Markets" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div id="Popup_Markets">
+                <div id="_5_1610" style="background-color: #11151F; color: white; padding: 8px; border-radius: 16px;">
+                    <div id="_5_1611" style="display: flex; flex-direction: column; gap: 8px;">
                         <div fid="5:1612" fname="2" id="_5_1612" style="padding: 20px; border-radius: 12px; cursor: pointer; transition: background-color 0.2s ease;" onmouseover="this.style.backgroundColor='rgba(255,255,255,0.1)'" onmouseout="this.style.backgroundColor='transparent'">
                             <div style="display: flex; align-items: center; gap: 16px;">
                                 <div fid="I5:1612;5:593" fname="Icon" id="_I5_1612-5_593">
