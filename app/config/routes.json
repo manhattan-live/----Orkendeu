@@ -16,12 +16,6 @@
       "path": "/Main_page_1442",
       "page": "Main_page_1442",
       "layout": "Main_page_1442"
-    },
-    {
-      "path": "/popup_demo",
-      "page": "popup_demo",
-      "routeType": "page",
-      "layout": "main"
     }
   ]
 }
